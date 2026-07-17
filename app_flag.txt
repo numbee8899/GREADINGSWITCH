@@ -1,5 +1,5 @@
 {
-  "status": "off",
+  "status": "on",
   "message": "ok",
   "minVersion": 1.3,
   "api": "https://api.example.com/"
